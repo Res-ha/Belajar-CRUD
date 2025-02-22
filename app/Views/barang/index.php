@@ -10,7 +10,7 @@
 
 <body>
     <div class="container mt-4">
-        <h2 class="mb-4">Data Barang Komputer</h2>
+        <h2 class="mb-4">Data Barang Komputer Cell Com</h2>
         <table class="table table-bordered">
             <thead class="table-dark">
                 <tr>
